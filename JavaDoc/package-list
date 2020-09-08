@@ -1,0 +1,7 @@
+com.macrosoft.test
+com.macrosoft.test.data
+com.macrosoft.test.service
+com.macrosoft.test.service.facade
+com.rest.service
+com.rest.service.client
+com.soap.service.client
